@@ -1,5 +1,5 @@
 /* Global Styles */
-table, tr, td {
+table:first-child, table, tr, td {
   background-color: honeydew;
   font-size: 18px;
   border: 1px solid black;
@@ -8,11 +8,6 @@ table, tr, td {
 }
 td.heading {
   border: 1px solid black;
-  font-weight: bold;
-  font-size: 20px;
-}
-table:first-child {
-  color: gold;
   font-weight: bold;
   font-size: 20px;
 }
