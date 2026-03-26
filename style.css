@@ -1,5 +1,5 @@
 /* Global Styles */
-table:first-of-type, tr, td {
+table, tr, td {
   background-color: honeydew;
   font-size: 18px;
   border: 1px solid black;
