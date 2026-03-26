@@ -14,7 +14,7 @@ table, tr, td {
   padding: 5px;
   margin: auto;
 }
-table.header {
+th {
   font-weight: bold;
   font-size: 20px;
 }
