@@ -14,6 +14,16 @@ table {
   padding: 5px;
   margin: auto;
 }
-a {
+table.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+a.link:link {
   font-color: purple;
+}
+a.link:visited {
+  font-color: green;
+}
+a.link:hover {
+  color: gray;
 }
