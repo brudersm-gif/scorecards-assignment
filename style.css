@@ -15,6 +15,7 @@ table, tr, td {
   margin: auto;
 }
 th {
+  border: 1px solid black;
   font-weight: bold;
   font-size: 20px;
 }
