@@ -28,3 +28,6 @@ a.link:visited {
 a.link:hover {
   color: gray;
 }
+a {
+  margin:auto;
+}
