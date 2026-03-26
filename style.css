@@ -12,5 +12,5 @@ td.heading {
   font-size: 20px;
 }
 table:first-of-type {
-  color: red;
+  color: red !important;
 }
