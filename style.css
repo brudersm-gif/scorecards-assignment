@@ -11,6 +11,7 @@ td.heading {
   font-weight: bold;
   font-size: 20px;
 }
-a:link {
+table:first-child {
   font-color: gold;
+  font-weight: bold;
 }
