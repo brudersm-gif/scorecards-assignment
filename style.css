@@ -11,9 +11,6 @@ td.heading {
   font-weight: bold;
   font-size: 20px;
 }
-a:nth-child(2n+0) {
-  font-color: blue;
-}
-a {
-  margin:auto;
+a:link {
+  font-color: gold;
 }
