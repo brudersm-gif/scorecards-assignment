@@ -12,6 +12,7 @@ td.heading {
   font-size: 20px;
 }
 table:first-child {
-  font-color: gold;
+  color: gold;
   font-weight: bold;
+  font-size: 20px;
 }
